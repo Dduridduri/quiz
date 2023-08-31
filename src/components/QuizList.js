@@ -24,7 +24,7 @@ const QuizList = [
       number4:'<select multiple>'
     },
     hint:'',
-    type: '',
+    type: 'html',
     
   },
   {
@@ -38,7 +38,7 @@ const QuizList = [
       number4:'<grid>, <row>, <cell>'
     },
     hint:'',
-    type: '',
+    type: 'html',
     
   },
   {
@@ -52,7 +52,7 @@ const QuizList = [
       number4:'&'
     },
     hint:'',
-    type: '',
+    type: 'css',
     
   },
   {
@@ -66,7 +66,7 @@ const QuizList = [
       number4:'interpolate'
     },
     hint:'',
-    type: '',
+    type: 'css',
     
   },
   {
@@ -80,7 +80,7 @@ const QuizList = [
       number4:'--'
     },
     hint:'',
-    type: '',
+    type: 'css',
     
   },
   {
@@ -94,7 +94,7 @@ const QuizList = [
       number4:'while (element = array.next()) { ... }'
     },
     hint:'',
-    type: '',
+    type: 'js',
     
   },
   {
@@ -108,7 +108,7 @@ const QuizList = [
       number4:'object[property]'
     },
     hint:'',
-    type: '',
+    type: 'js',
     
   },
   {
@@ -122,7 +122,7 @@ const QuizList = [
       number4:'myFunction() => function { ... }'
     },
     hint:'',
-    type: '',
+    type: 'js',
     
   },
   
